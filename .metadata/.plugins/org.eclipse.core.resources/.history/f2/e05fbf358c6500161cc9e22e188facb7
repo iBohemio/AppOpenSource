@@ -1,0 +1,11 @@
+package pe.edu.upc.entity;
+
+public class Fruta {
+	//Atributos de instancia
+private String nombre;
+private String color;
+private String sabor;
+
+
+
+}
